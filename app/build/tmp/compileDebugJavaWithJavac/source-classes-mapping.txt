@@ -1,0 +1,12 @@
+br/sp/senac/projetorecyclerviewapp/MainActivity.java
+ br.sp.senac.projetorecyclerviewapp.MainActivity
+br/sp/senac/projetorecyclerviewapp/RecyclerViewAdapter.java
+ br.sp.senac.projetorecyclerviewapp.RecyclerViewAdapter
+ br.sp.senac.projetorecyclerviewapp.RecyclerViewAdapter$1
+ br.sp.senac.projetorecyclerviewapp.RecyclerViewAdapter$MyViewHolder
+br/sp/senac/projetorecyclerviewapp/Livro_Activity.java
+ br.sp.senac.projetorecyclerviewapp.Livro_Activity
+br/sp/senac/projetorecyclerviewapp/BuildConfig.java
+ br.sp.senac.projetorecyclerviewapp.BuildConfig
+br/sp/senac/projetorecyclerviewapp/Livros.java
+ br.sp.senac.projetorecyclerviewapp.Livros
